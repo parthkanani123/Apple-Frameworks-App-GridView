@@ -17,8 +17,8 @@ struct AFButton: View
             .font(.title2)
             .fontWeight(.semibold)
             .frame(width: 280, height: 50)
-            .background(.red)
-            .foregroundColor(.white)
+            .background(.brandPrimary)
+            .foregroundColor(.primary)
             .cornerRadius(10)
     }
 }

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F59FDE22BBABE2400EE1385 /* FrameworkDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F59FDE12BBABE2400EE1385 /* FrameworkDetailViewModel.swift */; };
 		4F74B2D62B899FE400E1197D /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F74B2D52B899FE400E1197D /* SafariView.swift */; };
 		4F74B2D82B89A9B200E1197D /* FrameworkTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F74B2D72B89A9B200E1197D /* FrameworkTitleView.swift */; };
 		4F74B2DA2B89AA5500E1197D /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F74B2D92B89AA5500E1197D /* XDismissButton.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F59FDE12BBABE2400EE1385 /* FrameworkDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailViewModel.swift; sourceTree = "<group>"; };
 		4F74B2D52B899FE400E1197D /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 		4F74B2D72B89A9B200E1197D /* FrameworkTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkTitleView.swift; sourceTree = "<group>"; };
 		4F74B2D92B89AA5500E1197D /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 		4F74B2DD2B89ADBC00E1197D /* FrameworkDetailView */ = {
 			isa = PBXGroup;
 			children = (
+				4F59FDE12BBABE2400EE1385 /* FrameworkDetailViewModel.swift */,
 				4FC2D74F2B886FE500FAE2AB /* FrameworkDetailView.swift */,
 			);
 			path = FrameworkDetailView;
@@ -222,6 +225,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F59FDE22BBABE2400EE1385 /* FrameworkDetailViewModel.swift in Sources */,
 				4FC2D7502B886FE500FAE2AB /* FrameworkDetailView.swift in Sources */,
 				4FC2D74E2B885EB200FAE2AB /* FrameworkGridView.swift in Sources */,
 				4F74B2DA2B89AA5500E1197D /* XDismissButton.swift in Sources */,
