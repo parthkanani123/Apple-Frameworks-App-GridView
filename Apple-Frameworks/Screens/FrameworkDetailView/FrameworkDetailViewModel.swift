@@ -12,7 +12,7 @@ final class FrameworkDetailViewModel: ObservableObject
     var framework: Framework
     
     // if we use swiftUI Link we don't require this isShowingSafariView
-//    @Published var isShowingSafariView = false
+    //    @Published var isShowingSafariView = false
     
     init(framework: Framework)
     {
